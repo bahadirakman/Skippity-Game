@@ -1,0 +1,37 @@
+10
+A C D A E B E C C D 
+C A D E D D D A B C 
+D A E C E C C B B E 
+A A C E X A E E A C 
+A A X X X X D C D A 
+A D D X X D B A E D 
+E A A C C C A B E B 
+A B B B C D B C E B 
+C C C B B D D A E D 
+E B D D B A E E B B 
+0 1 0 0 1 
+0 0 0 0 1 
+bsafa
+adf
+-1
+A C D A E B E C C D 
+C A D E D D D A B C 
+D A E C E C C B B E 
+A A C E X A E E A C 
+A A X X X X D C D A 
+A D D D B X B A E D 
+E A A C C C A B E B 
+A B B B C D B C E B 
+C C C B B D D A E D 
+E B D D B A E E B B 
+0 0 0 0 1 
+0 0 0 0 0 
+1
+0
+-1
+-1
+-2
+-2
+0
+0
+0

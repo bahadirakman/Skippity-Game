@@ -1,0 +1,37 @@
+10
+D C A E E C A B E B 
+A D B A C D A A A E 
+A D E D B A E C C C 
+C B C C A E E C E E 
+B A C C X X D E B D 
+A C E D X X E B C D 
+A A D A C B C B D B 
+A D C E E D D E B D 
+B D E C B B E A D A 
+A D D B E B A B B C 
+0 0 0 0 0 
+0 0 0 0 0 
+bahadir
+zeynep
+1
+Z Z Z Z Z Z Z Z Z Z 
+Z Z Z Z Z Z Z Z Z Z 
+Z Z Z Z Z Z Z Z Z Z 
+Z Z Z Z Z Z Z Z Z Z 
+Z Z Z Z Z Z Z Z Z Z 
+Z Z Z Z Z Z Z Z Z Z 
+Z Z Z Z Z Z Z Z Z Z 
+Z Z Z Z Z Z Z Z Z Z 
+Z Z Z Z Z Z Z Z Z Z 
+Z Z Z Z Z Z Z Z Z Z 
+0 0 0 0 0 
+0 0 0 0 0 
+1
+0
+-1
+-1
+-2
+-2
+0
+0
+0

@@ -1,0 +1,33 @@
+8
+D C C C B A A E 
+C X B C X E D B 
+E X A A B X X A 
+D E C X X B B B 
+A A B X X A C D 
+B A A C C C E E 
+C D B C D D E D 
+A E D E B E B D 
+0 0 0 1 1 
+1 0 0 1 1 
+bahadir
+AI
+1
+D C C C B A A E 
+C E B C X E D B 
+E D A A X D B A 
+D X C X X B B B 
+A A B X X A C D 
+B A A C C C E E 
+C D B C D D E D 
+A E D E B E B D 
+0 0 0 0 1 
+0 0 0 0 0 
+1
+0
+-1
+-1
+-2
+-2
+0
+0
+0

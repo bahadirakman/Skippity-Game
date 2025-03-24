@@ -1,0 +1,33 @@
+8
+D D A E C D A C 
+B B X A X D X X 
+B X E E B A B B 
+D C X A X E C D 
+B B D X X A A D 
+C A C C E E B A 
+C E B C A C E D 
+D B C A E A E D 
+0 1 1 0 1 
+0 0 0 1 1 
+wesfdsf
+AI
+1
+D D A E C D A C 
+B B X A X X B D 
+B X E E B A B B 
+D C X A X E C D 
+B B D X X A A D 
+C A C C E E B A 
+C E B C A C E D 
+D B C A E A E D 
+0 0 1 0 1 
+0 0 0 0 0 
+1
+0
+1
+5
+1
+7
+0
+0
+1
